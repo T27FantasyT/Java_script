@@ -1,0 +1,42 @@
+.container{
+    box-sizing: border-box;
+    width: 500px;
+    text-align: center;
+    border: solid 1px ;
+    background-color:#FFF;
+    margin-top: auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+
+}
+
+body{
+    background-color: rgb(122, 125, 128);
+}
+
+p {
+    display: inline;
+    margin: 10 px;
+}
+
+h5{
+    margin : 5px;
+    line-height: 10px;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    
+}
+
+.calculate{
+    text-align: center;
+    padding:10px;
+    color:#FFF;
+    font-weight: 800;
+    font-family:sans-serif;
+    background-color: red;
+    margin: 10px;
+}
